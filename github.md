@@ -1,4 +1,4 @@
-<!-- # Github steps
+# Github steps
 
 
 
@@ -14,9 +14,6 @@
     - `git add filename`
 7. commit `git commit -m "mesage text"`
 8. push: `git push` 
-
- -->
-
-
+9. pull: ` git pull`: when you wanna download files from github repo added from another laptop or colaborator
 
     
